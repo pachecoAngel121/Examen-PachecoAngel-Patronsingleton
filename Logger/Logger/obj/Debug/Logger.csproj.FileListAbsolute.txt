@@ -1,0 +1,15 @@
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\bin\Debug\Logger.exe.config
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\bin\Debug\Logger.exe
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\bin\Debug\Logger.pdb
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.exe
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\obj\Debug\Logger.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\USUARIO\Desktop\Singleton-Pattern-master\Logger\Logger\bin\Debug\Logger.pdb
